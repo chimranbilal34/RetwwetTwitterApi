@@ -1,15 +1,15 @@
-#Post_RetweetAPI_Tweeter
+#Post_RetweetAPI_Tweeter-Puppeteer
 #Puppeteer
 
-***Step-1 to Post_RetweetAPI_Tweeter:
+***Step-1 to Post_RetweetAPI_Tweeter-Puppeteer:
 
 Add your Credentials like (username,password) in credential.json file in object form.
 
-***Step-2 to Post_RetweetAPI_Tweeter:
+***Step-2 to Post_RetweetAPI_Tweeter-Puppeteer:
 
 run : npm install
 
-***Step-3 to Post_RetweetAPI_Tweeter:
+***Step-3 to Post_RetweetAPI_Tweeter-Puppeteer:
 
 run : node index.js
 
